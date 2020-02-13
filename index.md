@@ -2,6 +2,9 @@
 ----
 # Welcome to Howard07 #
 ---
+-混一天和努力一天，一天看不出任何差别，三天看不到任何变化，七天也看不到任何距离……但是一个月后会看到话题不同，三个月后会看到气场不同，半年后会看到距离不同，一年后会看到人生道路截然不同。
+-
+
 1.[对argc与argv的认识](https://blog.csdn.net/u014106566/article/details/84141718)
 >C/C++语言中的main函数，经常带有参数argc，argv，如下：int main(int argc, char ****argv)或int main(int argc, char * argv[])
 main (argc,char * argv[]){while(- -argc>0)printf("%s",argv[argc]);printf("\n");}
