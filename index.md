@@ -6,9 +6,9 @@
 2019年的冬天不是靠熬能够过去的。任正非<br>
 -==每一件与众不同的绝世好东西，都是以无比的勤奋为前提。要么是血，要么是汗，要么是大把大把的曼妙好时光。==让我们一起迎接即将到来的2020!吴晓波</blockquote>
 
+*****
 
-
-#c\c++
+# C/C++
 1.[对argc与argv的认识](https://blog.csdn.net/u014106566/article/details/84141718)
 >C/C++语言中的main函数，经常带有参数argc，argv，如下：int main(int argc, char ****argv)或int main(int argc, char * argv[])
 main (argc,char * argv[]){while(- -argc>0)printf("%s",argv[argc]);printf("\n");}
@@ -37,7 +37,7 @@ int main(){
 </blockquote>
 
 3.输出答案x，结果保留2位数
->头文件'#include<iomanip>'
-''cout<<fixed<<setprecision(2)<<x<<endl;''
+头文件'#include<iomanip>'
+>cout<<fixed<<setprecision(2)<<x<<endl;
 
 
